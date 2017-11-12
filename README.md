@@ -29,7 +29,7 @@ Now java code opens both files and starts comparing and adding Hydrogen atoms to
 
 Future Plan:
 
-using the same strategy we can check missing atoms in PDB.file, make a report of them and can be corrected.
-we can also check the overlapping of the atoms in the PDB file.
-we can also add new or delete existing amino acids in the PDB file as part of mutation in protein.
+1. using the same strategy we can check missing atoms in PDB.file, make a report of them and can be corrected.
+2. we can also check the overlapping of the atoms in the PDB file.
+3. we can also add new or delete existing amino acids in the PDB file as part of mutation in protein.
 
